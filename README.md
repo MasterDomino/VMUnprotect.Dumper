@@ -28,6 +28,14 @@ VMUnprotect.Dumper.exe example.vmp.exe
 
 ### Checkout also:
 * [VMUnprotect](https://github.com/void-stack/VMUnprotect) - VMUnprotect can dynamically log and manipulate calls from virtualized methods by VMProtect.
+* [DeMutation](https://github.com/xlfj5211/DeMutation) - VMProtect Mutation Cleaner/Remover
+* [VMP-Demutator](https://github.com/xlfj5211/VMP-Demutator) - Demutator for VMP Mutations
+* [VMPBypass](https://github.com/CabboShiba/VMPBypass) - This tool will allow you to bypass VMProtect .NET AntiDebugger. Made by Cabbo.
+* [VMPStrings-Decrypter](https://github.com/CabboShiba/VMPStrings-Decrypter) - Decrypt VMProtect (.NET) obfuscated strings. Made by Cabbo with love.
+* [VMPImportFixer-1](https://github.com/coders-vechai/VMPImportFixer-1?) - VMProtect .NET Import Protection Fixer
+* [VMPResources](https://github.com/coders-vechai/VMPResources)
+* [VMPStrings](https://github.com/coders-vechai/VMPStrings)
+* [VMP.NET-Kill](https://github.com/DarkBullNull/VMP.NET-Kill) - This program help you with unpacking vmprotect
 
 # Credits
 * [wwh1004](https://github.com/wwh1004) - Idea.
