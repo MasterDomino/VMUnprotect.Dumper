@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMUnprotect.Dumper", "VMUnprotect.Dumper\VMUnprotect.Dumper.csproj", "{3ADC4266-C484-4585-9DFF-980FE7B3FDDB}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {444C6EEA-4C83-4F4F-8F06-8018A1123ED7}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 	EndGlobalSection
 EndGlobal
