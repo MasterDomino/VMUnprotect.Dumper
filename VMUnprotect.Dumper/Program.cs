@@ -74,6 +74,8 @@ _________                __
 				{
 					assembly = Assembly.LoadFile(target);
 
+					// TODO: look into: https://github.com/void-stack/VMUnprotect/tree/main/VMUP/VMUnprotect.Runtime/Hooks/Methods
+
 					// TODO: if assembly has anti-debug implemented this wont throw an error,
 					// but instead just close the app instance, we want to somehow catch that before
 					// this only happens if anti-debug checks on the beginning of .cctor
