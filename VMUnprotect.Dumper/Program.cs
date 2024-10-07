@@ -78,7 +78,7 @@ _________                __
 
 					// TODO: if assembly has anti-debug implemented this wont throw an error,
 					// but instead just close the app instance, we want to somehow catch that before
-					// this only happens if anti-debug checks on the beginning of .cctor
+					// this only happens if anti-debug is located on the prefix of .cctor
 					// this can be circumvented with Lib.Harmony patch
 
 					// !!! CREDITS: CabboShiba !!!
