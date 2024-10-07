@@ -19,6 +19,7 @@
     <PackageReference Include="AsmResolver" Version="5.5.1" />
     <PackageReference Include="AsmResolver.DotNet" Version="5.5.1" />
     <PackageReference Include="AsmResolver.PE" Version="5.5.1" />
+    <PackageReference Include="Lib.Harmony" Version="2.3.3" />
     <PackageReference Include="Sharprompt" Version="2.4.5" />
   </ItemGroup>
 
